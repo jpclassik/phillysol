@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jpclassik
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @johnson paul
+- 👀 I’m interested in writing codes for fun
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on alot of projects..
+currently a frontend developer that works with reactjs Nodejs vuejs html5 css3 
+- 📫 How to reach me sammizy.js@gmail.com
 
 <!---
 jpclassik/jpclassik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
