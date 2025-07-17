@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @johnson paul
+- 👋 Hi, I’m @philly sol
 - 👀 I’m interested in writing codes for fun
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on alot of projects..
-currently a frontend developer that works with reactjs Nodejs vuejs html5 css3 
-- 📫 How to reach me sammizy.js@gmail.com
+currently a frontend developer that works with reactjs Nodejs vuejs html5 css3
+recent works
+  https://spin.papefamily.xyz
+  https://trade.boredswap.io
+  https://apewave.netlify.app
+  https://boredswap.io
+- 📫 How to reach me
+- reiphillip38@gmail.com
+- discord - philly7744
+twitter-https://x.com/phillyreigns_19?s=21
 
-<!---
-jpclassik/jpclassik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
