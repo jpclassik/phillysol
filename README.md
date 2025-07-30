@@ -2,11 +2,10 @@
 - 👀 I’m interested in writing codes for fun
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on alot of projects..
-currently a frontend developer that works with reactjs Nodejs vuejs html5 css3
+currently a full stack developer that works with reactjs Nodejs vuejs html5 css3
 recent works
   https://spin.papefamily.xyz
-  https://trade.boredswap.io
-  https://apewave.netlify.app
+  https://trade.boredswap.io.        https://apewaveten.vercel.app/
   https://boredswap.io
 - 📫 How to reach me
 - reiphillip38@gmail.com
